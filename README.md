@@ -2,7 +2,7 @@
 
 🛠 My main language right now is C#.
 
-💡 I’m currently working on my [LINQ project](https://github.com/Vlad-Suk/MyLINQ) and learning [ASP.NET](https://github.com/dotnet/aspnetcore).
+💡 My main project here [LINQ project](https://github.com/Vlad-Suk/MyLINQ).
   
 🏄 Hobbies: dancing, philosophy, sports races.
   
