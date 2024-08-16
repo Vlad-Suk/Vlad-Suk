@@ -8,4 +8,4 @@
   
 🏄 Hobbies: dancing, philosophy, sports races.
   
-<img src="https://github-readme-stats-plum-eta.vercel.app/api?username=Vlad-Suk&show_icons=true&theme=tokyonight" width="53.4%">
+
